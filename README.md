@@ -8,7 +8,7 @@ This is a basic 3D game designed and developed in Unity. That is the first 3D Ga
 
 ⇒ One Level,One Player
 
-⇒ Try to pass blocks without touching and reach the end point. The color of it's gonna turn red as you touch a block.
+⇒ Try to pass blocks without touching and reach the end point. The color of it is going to turn red as you touch a block.
 
 ###  :dart: Experiences:
 
@@ -28,4 +28,6 @@ This is a basic 3D game designed and developed in Unity. That is the first 3D Ga
 
 ⇒ Basic Collision
 
-### :camera_flash: Preview:
+### :camera_flash: Gameplay View:
+
+![](pre1.png)
