@@ -4,7 +4,7 @@
 
 This is a basic 3D game designed and developed in Unity. That is the first 3D Game I've developed myself. There is only 1 level in this game. It is very simple to play and basic to start. This game served me understanding the basics of Unity. 
 
-###  :sassy_man: Explenation:
+###  :sassy_man: Explanation:
 
 ⇒ One Level,One Player
 
